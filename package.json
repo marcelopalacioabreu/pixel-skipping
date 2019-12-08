@@ -1,7 +1,7 @@
 {
   "name": "pixel-skipping",
   "version": "0.0.1",
-  "description": "Calculate pixel skipping in FPS Games",
+  "description": "Calculate pixel skipping in FPS Games using Shannon's law",
   "main": "index.js",
   "scripts": {
     "test": "npx tape tests/**/*.js | tap-spec"
